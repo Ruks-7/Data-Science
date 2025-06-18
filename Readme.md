@@ -18,5 +18,14 @@ The analysis uses the "StudentsPerformance.csv" dataset which includes:
 1. Basic Exploratory Analysis
 2. Performance Analysis
 3. Correlation Analysis
+4. Performance prediction using Linear Regression
 
+### Tools and Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
 
+### Conclusion
+This project aims to provide insights into student performance and identify key factors that influence academic success. 
